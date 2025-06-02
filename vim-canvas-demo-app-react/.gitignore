@@ -26,3 +26,7 @@ functions/**/*.js
 *.njsproj
 *.sln
 *.sw?
+
+# Self Signed Certificate
+cert.crt
+cert.key
